@@ -11,4 +11,4 @@ https://java-programming.mooc.fi/
 | Part 4 | Object-Oriented Programming, Objects in a list, Files and reading data |
 | Part 5 | Overloading, Primitive and reference variables, Objects and references |
 | Part 6 | Objects on a list and a list as part of an object, Seperating the user interface from program logic, Introduction to testing |
-| Part 7 | Algorithms, Larger programming exercises |
+| Part 7 | Programming Paradigms, Algorithms, Larger programming exercises |
