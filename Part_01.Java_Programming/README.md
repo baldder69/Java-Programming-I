@@ -1,9 +1,9 @@
 # Part I
 Part I goes over printing, reading input, variables, calculating with numbers, and conditional statements and operations.
 
- Part | Learning Objectives 
- --------- | ------------------- 
- Section 1 | <ul><li>Become familiar with the 'NetBeans with TMC' development environment used in this course.</li> <li>Learn to download and submit programming exercises.</li></ul> 
+&nbsp;&nbsp;&nbsp; Sections      &nbsp;&nbsp;&nbsp;              | Learning Objectives |
+------------------------- | --------------- |
+ Section 1 | <ul><li>Become familiar with the 'NetBeans with TMC' development environment used in this course.</li> <li>Learn to download and submit programming exercises.</li></ul> |
  Section 2 | <ul><li>Learn to write a program that prints text.</li> <li> Become familiar with executing programs.</li> <li>Know what the term "parameter" means. </li></ul> 
  Section 3 | <ul><li>Learn to write a program that reads text written by a user.</li><li>Know what a "string" refers to in programming.</li><li>Know how to join (i.e., "concatenate") strings together.</li></ul> 
  Section 4 | <ul><li>Understand the concept of a variable. You know what variable types, names, and values are.</li><li>Know how to create and use string, integer, floating-point, and boolean variables.</li></ul> 
