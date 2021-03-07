@@ -1,4 +1,5 @@
 # Learning Objectives
+Part I goes over Printing, Reading input, Variables, Calculating with numbers, and Conditional statements and operations.
 
 | Sections | Learning Objectives |
 | --- | --- |
