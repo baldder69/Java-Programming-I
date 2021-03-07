@@ -1,4 +1,5 @@
-# Part 1
+# Learning Objectives
+
 | Sections | Learning Objectives |
 | --- | --- |
 | Part 1 | <ul><li>Become familiar with the 'NetBeans with TMC' development environment used in this course.</li> <li>Learn to download and submit programming exercises.</li></ul> |
