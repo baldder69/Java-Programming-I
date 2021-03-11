@@ -3,7 +3,7 @@ Java Programming I from the University of Helsinki. Course related information c
 
 https://java-programming.mooc.fi/
 
-| Part | Content |
+⠀Part⠀                | Content |
 | --- | --- |
 | Part 1 | Printing, Reading input, Variables, Calculating with numbers, Conditional statements and operations
 | Part 2 | Recurring problems and patterns to solve them, Loops, Methods |
