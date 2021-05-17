@@ -1,7 +1,5 @@
 # Java Programming I by University of Helsinki
-Java Programming I from the University of Helsinki. Course related information can be found here:
-
-https://java-programming.mooc.fi/
+Java Programming I from the University of Helsinki. Course related information can be found [here.](https://java-programming.mooc.fi/)
 
 ⠀Part⠀                | Content |
 | --- | --- |
